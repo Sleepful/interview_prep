@@ -1,3 +1,9 @@
+
+# about contract
+
+- is it a services or a planilla contract
+- if it's services, do you provide the equipment?
+
 # about the history
 
 - when did the company start?
@@ -8,6 +14,7 @@
 
 - what frameworks do you use?
 - do you do testing? if so, how do you test your code? 
+- which control version tool is used?
 
 # about the *react* front-end
 
