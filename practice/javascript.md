@@ -15,7 +15,7 @@ describe IEFEs
 differences between arrow functions and `function` functions
   - this binding
   - cleaner code
-  - `arguments` object (`function` funcitons have it, arrow functions don't)
+  - `arguments` object (`function` functions have it, arrow functions don't)
 
 callbacks / promises 
 - Callback functions in JavaScript are functions that can be passed to other functions as a parameter.
